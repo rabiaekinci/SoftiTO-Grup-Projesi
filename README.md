@@ -1,1 +1,0 @@
-# SoftiTO-Grup-Projesi
