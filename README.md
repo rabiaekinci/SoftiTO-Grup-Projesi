@@ -138,6 +138,6 @@ Python · pandas · NumPy · scikit-learn · XGBoost · NLTK (VADER) · Matplotl
 - Derya Kalay
 - Feza Nur Hazar
 - İrem Nur
-- Rabia Ekinci ([@rabiaekinci](https://github.com/rabiaekinci))
-- Sümeyya Taş ([@sumeyyatas](https://github.com/sumeyyatas))
+- Rabia Ekinci
+- Sümeyya Taş
 - Şevval Birgül
