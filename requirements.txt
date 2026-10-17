@@ -1,5 +1,9 @@
 streamlit
-matplotlib
-wordcloud
 pandas
 numpy
+scikit-learn
+xgboost
+plotly
+matplotlib
+wordcloud
+openpyxl
